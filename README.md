@@ -4,12 +4,15 @@
 I am a front-end developer that focuses on Web Design and modern JavaScript, and React as a framework. I have a passion for Design System, Web Accessibility and Serverless Technologies.
 
 ### Skills and experience
+
 - React.js
 - JavaScript
 - HTML/CSS
 - Tailwind.css
 - Git
 - TypeScript
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/Billboah/)  
 
