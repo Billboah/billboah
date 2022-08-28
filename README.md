@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yeboah William
 #### I am Front-End Developer
-![I am Front-End Developer](https://media-exp1.licdn.com/dms/image/C4E16AQFSSZC2qfVmhQ/profile-displaybackgroundimage-shrink_350_1400/0/1661666688101?e=1667433600&v=beta&t=IpiNOWForn8SusbSflg9Z22uCvi5gzINVoISqpsP1oE)
+![I am Front-End Developer](https://github.com/Billboah/billboah/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner.png)
 
 I am a front-end developer that focuses on Web Design and modern JavaScript, and React as a framework. I have a passion for Design System, Web Accessibility and Serverless Technologies.
 
