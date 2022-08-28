@@ -1,10 +1,10 @@
 ![I am Front-End Developer](https://github.com/Billboah/billboah/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner.png)
-### Hi there 👋, I'm Yeboah William
-#### I am Front-End Developer
+# Yeboah William
 
 I am a front-end developer that focuses on Web Design and modern JavaScript, and React as a framework. I have a passion for Design System, Web Accessibility and Serverless Technologies.
 
-Skills: REACT / JS / HTML / CSS
+### SKILLS
+!REACT/ JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
