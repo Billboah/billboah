@@ -1,7 +1,7 @@
 ![I am Front-End Developer](https://github.com/Billboah/billboah/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner.png)
 # Yeboah William
 
-I am a front-end developer that focuses on Web Design and modern JavaScript, and React as a framework. I have a passion for Design System, Web Accessibility and Serverless Technologies.
+I am a web developer that focuses on Web Design and modern JavaScript, React as a framework, and Node.js for the backend. I have a passion for Design System, Web Accessibility and Serverless Technologies. 
 
 ### Skills and experience
 
@@ -15,7 +15,6 @@ I am a front-end developer that focuses on Web Design and modern JavaScript, and
 - Jest
 - Next.js
 - Gatsby
-- 
 
 
 
