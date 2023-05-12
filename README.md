@@ -11,8 +11,13 @@ I am a front-end developer that focuses on Web Design and modern JavaScript, and
 - Tailwind.css
 - Git
 - TypeScript
+- NOde.js
+- Jest
+- Next.js
+- Gatsby
+- 
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/Billboah/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/billboah/)  
 
