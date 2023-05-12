@@ -11,7 +11,7 @@ I am a web developer that focuses on Web Design and modern JavaScript, React as 
 - Tailwind.css
 - Git
 - TypeScript
-- NOde.js
+- Node.js
 - Jest
 - Next.js
 - Gatsby
