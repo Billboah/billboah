@@ -11,11 +11,14 @@ I am dedicated to providing outstanding customer service and delivering exceptio
 
 - React.js
 - JavaScript
+- TypeScript
 - HTML/CSS
 - Tailwind.css
 - Git
-- TypeScript
+- Github
 - Node.js
+- Express.js
+- REST API
 - Jest
 - Next.js
 - Gatsby
