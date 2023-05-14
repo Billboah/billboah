@@ -1,7 +1,11 @@
 ![I am Front-End Developer](https://github.com/Billboah/billboah/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner.png)
 # Yeboah William
 
-I am a web developer that focuses on Web Design and modern JavaScript, React as a framework, Node.js for the backend, MySQL database and REST API. I have a passion for Design System, Web Accessibility and Serverless Technologies. 
+I am a full stack web developer with a passion for creating exceptional web applications. With extensive experience using cutting-edge technologies such as React.js, Next.js, Node.js, Express.js, MySQL, REST API, Gatsby, TypeScript, and JavaScript, I have the skills and expertise needed to deliver high-quality web solutions that meet the unique needs of each client.
+
+My strengths include building dynamic and responsive web interfaces, designing custom software solutions, and implementing advanced functionality using modern web development frameworks and libraries. I am also committed to staying up-to-date with the latest trends and best practices in web development, and I strive to continuously improve my skills and knowledge.
+
+I am dedicated to providing outstanding customer service and delivering exceptional work that exceeds expectations. Please take a moment to explore my GitHub repositories and portfolio, and feel free to get in touch if you have any questions or if you would like to discuss a potential project. Thank you for visiting! 
 
 ### Skills and experience
 
