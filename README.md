@@ -23,7 +23,9 @@ I am dedicated to providing outstanding customer service and delivering exceptio
 - Next.js
 - Gatsby
 - SQL
+- NoSQL
 - MySQL
+- MongoDB
 
 
 
