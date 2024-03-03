@@ -27,10 +27,11 @@ Let's code something awesome! 💻🚀
 - Next.js
 - Node.js
 - Express.js
+- Firebase
 - Tailwind.css
 - Redux
 - REST API
-- MongoDB
+- Databases
 - Jest
 
 
