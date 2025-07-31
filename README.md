@@ -1,40 +1,67 @@
-![I am Front-End Developer](https://github.com/Billboah/billboah/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner.png)
-# Yeboah William
+![AWS Cloud Engineer Banner](https://github.com/Billboah/billboah/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner.png)
 
-👋 Welcome to my GitHub! I'm William Yeboah, a passionate React and Next.js web developer hailing from the vibrant nation of Ghana. 
+# 👋 Hi, I'm William Yeboah
 
-I'm all about crafting immersive digital experiences and pushing the boundaries of what's possible on the web. With a knack for clean code and an eye for detail, I bring ideas to life one line at a time.
+🚀 **AWS Cloud Engineer | Full-Stack Developer | Research-Driven Problem Solver**
 
-My journey into the world of web development began with a curiosity to understand the inner workings of the internet and a drive to make an impact. Over time, I've honed my skills through hands-on experience and continuous learning, staying on top of the latest tech trends to deliver top-notch solutions for clients.
+Driven by curiosity and guided by growth, I bring a unique blend of expertise in **cloud computing**, **medical diagnostics**, and **software engineering**. I’m passionate about building secure, scalable solutions that solve real-world problems.
 
-I thrive on challenges and love diving deep into complex problems, whether it's building slick user interfaces, optimizing performance, or mastering the intricacies of server-side rendering with Next.js.
+---
 
-Beyond the code, I'm deeply rooted in my community, passionate about mentoring aspiring developers, and collaborating on open-source projects to drive positive change in the tech world.
+## ☁️ My Cloud Journey
 
-When I'm not coding, you can find me soaking up the rich culture of Ghana, savoring local delicacies, or grooving to the infectious beats of Afrobeat music.
+Originally trained as a **medical laboratory scientist** with a degree from the University of Health and Allied Sciences (Ghana), I transitioned into tech with a love for data, diagnostics, and innovation.
 
-Thanks for stopping by my GitHub! Whether you're here to check out my projects, collaborate, or just connect, I'm excited to embark on this journey together.
+Today, I specialize in AWS Cloud Engineering, building and deploying modern full-stack applications using:
 
-Let's code something awesome! 💻🚀
+- **React.js** / **Next.js**
+- **Node.js** / **Express.js**
+- **Firebase**, **MongoDB**
+- **Python**, **JavaScript**, **TypeScript**
 
-### Skills and experience
+I'm currently advancing my cloud skills through the **ALX AWS Cloud Computing Program**, where I’ve mastered core AWS services to architect **resilient, cost-optimized, and scalable** cloud solutions.
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React.js
-- Next.js
-- Node.js
-- Express.js
-- Firebase
-- Tailwind.css
-- Redux
-- REST API
-- Databases
-- Jest
+---
 
+## 🧠 Multidisciplinary, Collaborative, Impact-Driven
 
+Whether it's leading a research project on anemia in malaria patients or developing a peer-to-peer funding platform (GrowLX), I thrive at the intersection of **data, cloud, and collaboration**.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/billboah/)  
+### 🔹 Soft Skills & Agile Experience
+- ✅ Cross-functional teamwork (Scrum, GitHub, Trello, Slack)
+- ✅ Research, data analysis & UX design
+- ✅ Task prioritization in fast-paced teams
 
+---
+
+## 💻 Technical Skills
+
+- HTML • CSS • JavaScript • TypeScript  
+- React.js • Next.js • Node.js • Express.js  
+- Firebase • MongoDB • Tailwind CSS  
+- REST APIs • Cloud Architecture • CI/CD  
+- Git • GitHub • Jest • Postman  
+
+---
+
+## 🌍 Why AWS?
+
+Cloud computing is the backbone of modern innovation. I use AWS to help businesses:
+
+- ✅ Optimize performance & cost
+- ✅ Ensure availability & fault tolerance
+- ✅ Strengthen security posture
+- ✅ Unlock insights from complex data
+
+---
+
+## 🤝 Let’s Connect!
+
+I'm currently open to **AWS Cloud Engineering** roles and collaborations that drive value through **technology, data, and teamwork**.
+
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/billboah/)
+
+📫 **Email**: [billboahdev@gmail.com](mailto:billboahdev@gmail.com)  
+🌐 **Portfolio**: [williamyeboah.vercel.app](https://williamyeboah.vercel.app)
+
+Let’s build something impactful together! 💻🌩️
