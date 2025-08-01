@@ -55,7 +55,7 @@ I’ve worked on impactful solutions—from e-commerce platforms hosted in the c
 I'm actively seeking opportunities as an **AWS Cloud Engineer**, where I can help build secure, scalable, and innovative cloud systems.
 
 - 🌐 Portfolio: [williamyeboah.vercel.app](https://williamyeboah.vercel.app)  
-- 📧 Email: [billboahdev@gmail.com](mailto:wyeboah618@gmail.com)  
+- 📧 Email: [wyeboah618@gmail.com](mailto:wyeboah618@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/billboah/)
 
 ---
