@@ -1,4 +1,4 @@
-![AWS Cloud Engineer Banner](https://github.com/Billboah/billboah/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner.png)
+![AWS Cloud Engineer Banner](https://github.com/Billboah/billboah/blob/main/billboah.png)
 
 # 👋 Hi, I'm William Yeboah
 
