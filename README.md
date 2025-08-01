@@ -2,66 +2,62 @@
 
 # 👋 Hi, I'm William Yeboah
 
-🚀 **AWS Cloud Engineer | Full-Stack Developer | Research-Driven Problem Solver**
+🚀 **AWS Cloud Engineer | Problem Solver | Multidisciplinary Thinker**
 
-Driven by curiosity and guided by growth, I bring a unique blend of expertise in **cloud computing**, **medical diagnostics**, and **software engineering**. I’m passionate about building secure, scalable solutions that solve real-world problems.
+Driven by curiosity and guided by growth, I help businesses design and deploy secure, scalable, and resilient cloud solutions using AWS. With a background in **medical laboratory science**, I bring precision, analytical thinking, and a research-driven mindset into the world of cloud computing and full-stack development.
 
 ---
 
 ## ☁️ My Cloud Journey
 
-Originally trained as a **medical laboratory scientist** with a degree from the University of Health and Allied Sciences (Ghana), I transitioned into tech with a love for data, diagnostics, and innovation.
+My career began in healthcare diagnostics, where I earned my degree from the University of Health and Allied Sciences. During my national service and research work, I developed strong skills in **data interpretation**, **problem-solving**, and **technical precision**.
 
-Today, I specialize in AWS Cloud Engineering, building and deploying modern full-stack applications using:
+Curiosity led me into software engineering, where I taught myself programming through platforms like Khan Academy, FreeCodeCamp, and Frontend Masters. Now, through the **ALX AWS Cloud Computing Program**, I specialize in building cloud-first architectures using key AWS services such as:
 
-- **React.js** / **Next.js**
-- **Node.js** / **Express.js**
-- **Firebase**, **MongoDB**
-- **Python**, **JavaScript**, **TypeScript**
-
-I'm currently advancing my cloud skills through the **ALX AWS Cloud Computing Program**, where I’ve mastered core AWS services to architect **resilient, cost-optimized, and scalable** cloud solutions.
+- **EC2, S3, VPC, IAM, CloudWatch, Lambda, RDS, DynamoDB**
+- Infrastructure as Code with **CloudFormation**
+- **CI/CD pipelines** and deployment automation
+- Secure, scalable application hosting and optimization
 
 ---
 
-## 🧠 Multidisciplinary, Collaborative, Impact-Driven
+## 🧠 Cloud + Code + Collaboration
 
-Whether it's leading a research project on anemia in malaria patients or developing a peer-to-peer funding platform (GrowLX), I thrive at the intersection of **data, cloud, and collaboration**.
+I'm not just a builder—I’m a problem solver with a strong foundation in both tech and communication. My cross-disciplinary background helps me work well in dynamic teams and high-pressure environments.
 
-### 🔹 Soft Skills & Agile Experience
-- ✅ Cross-functional teamwork (Scrum, GitHub, Trello, Slack)
-- ✅ Research, data analysis & UX design
-- ✅ Task prioritization in fast-paced teams
-
----
-
-## 💻 Technical Skills
-
-- HTML • CSS • JavaScript • TypeScript  
-- React.js • Next.js • Node.js • Express.js  
-- Firebase • MongoDB • Tailwind CSS  
-- REST APIs • Cloud Architecture • CI/CD  
-- Git • GitHub • Jest • Postman  
+### ✅ What I Bring to the Table
+- **Cloud Engineering**: Deploying fault-tolerant, secure, cost-effective solutions on AWS
+- **DevOps & Monitoring**: Automation, CI/CD, and cloud-native monitoring
+- **Backend/Full-Stack Skills**: Node.js, Express.js, Python, MongoDB, Firebase
+- **Frontend Technologies**: React.js, Next.js, Tailwind CSS, TypeScript
+- **Soft Skills**: Agile teamwork, documentation, stakeholder communication
 
 ---
 
-## 🌍 Why AWS?
+## 🛠️ Tools & Technologies
 
-Cloud computing is the backbone of modern innovation. I use AWS to help businesses:
-
-- ✅ Optimize performance & cost
-- ✅ Ensure availability & fault tolerance
-- ✅ Strengthen security posture
-- ✅ Unlock insights from complex data
+- **Cloud**: AWS (EC2, S3, Lambda, IAM, RDS, DynamoDB, CloudFormation, CloudWatch)
+- **Languages**: JavaScript, TypeScript, Python
+- **Web**: React.js, Next.js, Node.js, Express.js, Firebase
+- **Databases**: MongoDB, Firebase, MySQL
+- **Other**: Git, GitHub, Trello, Slack, Postman, Jest, CI/CD
 
 ---
 
-## 🤝 Let’s Connect!
+## 📈 Projects That Matter
 
-I'm currently open to **AWS Cloud Engineering** roles and collaborations that drive value through **technology, data, and teamwork**.
+I’ve worked on impactful solutions—from e-commerce platforms hosted in the cloud using AWS best practices to peer-to-peer investment apps. My role often bridges **research, design, and implementation**, ensuring a seamless experience across cloud and application layers.
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/billboah/)
+---
 
-📫 **Email**: [billboahdev@gmail.com](mailto:billboahdev@gmail.com)  
-🌐 **Portfolio**: [williamyeboah.vercel.app](https://williamyeboah.vercel.app)
+## 📬 Let’s Connect
 
-Let’s build something impactful together! 💻🌩️
+I'm actively seeking opportunities as an **AWS Cloud Engineer**, where I can help build secure, scalable, and innovative cloud systems.
+
+- 🌐 Portfolio: [williamyeboah.vercel.app](https://williamyeboah.vercel.app)  
+- 📧 Email: [billboahdev@gmail.com](mailto:wyeboah618@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/billboah/)
+
+---
+
+*Let’s build the future of cloud computing—together.* ☁️💻
