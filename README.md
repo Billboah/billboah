@@ -65,8 +65,8 @@ Backend-driven booking platform built with **Django + MySQL + GraphQL**, deploye
 I’m actively seeking opportunities as an **AWS Cloud Engineer** or **Cloud-Focused Backend Developer**, where I can build **scalable, secure, and innovative cloud-native systems**.  
 
 - 📱 WhatsApp (Preferred): **+233 (0) 540674594**  
-- 📧 Email: [william.yeboah.dev@gmail.com](mailto:william.yeboah.dev@gmail.com)  
-- 🌐 Portfolio: [williamyeboah.vercel.app](https://williamyeboah.vercel.app)  
+- 📧 Email: [billboah200@gmail.com](mailto:billboah200@gmail.com)  
+- 🌐 Portfolio: [billboah.vercel.app/](https://billboah.vercel.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/billboah/)  
 - 🐙 [GitHub](https://github.com/Billboah)  
 
