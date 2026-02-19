@@ -2,74 +2,123 @@
 
 # 👋 Hi, I'm William Yeboah
 
-🚀 **AWS Cloud Engineer | Backend Developer | Problem Solver**
+🚀 **AWS Solutions Architect (Associate) | Cloud Cost Optimization Enthusiast | Systems Thinker**
 
-I design, build, and deploy **secure, scalable, and cost-efficient cloud architectures** on AWS. With a strong foundation in **backend development** and a background in **medical laboratory science**, I bring analytical precision and problem-solving into the world of **cloud computing and systems engineering**.  
+I design and architect **secure, scalable, and cost-efficient cloud systems** on AWS. My focus is not just building infrastructure — but ensuring it is **optimized for performance, reliability, and long-term cost efficiency**.
 
-Currently, I am completing the **ALX AWS Cloud Computing (Cloud Architect Track)** and **Backend Web Professional Developer** programs, sharpening my skills in **cloud-native development, automation, and deployment pipelines**.
+With a strong foundation in backend engineering and a background in medical laboratory science, I bring **analytical precision, problem-solving, and systems thinking** into cloud architecture.
+
+Currently completing the **ALX AWS Cloud Computing (Cloud Architect Track)** and **Backend Web Professional Developer** programs.
 
 ---
 
-## ☁️ My AWS Cloud Journey
+## ☁️ My Cloud Architecture Focus
 
-My career began in healthcare diagnostics, where I earned a degree in **Medical Laboratory Science**. Precision, research, and data analysis became second nature — skills that now shape my approach to **engineering robust cloud solutions**.  
+My journey began in healthcare diagnostics, where I developed strong analytical and research skills. This foundation now shapes how I approach **cloud system design — with precision, optimization, and strategic thinking**.
 
-Curiosity led me into software engineering, where I built apps with **React.js, Next.js, Node.js, and Django**. Today, I focus on **AWS-powered solutions** that scale with business needs:  
+Today, I focus on designing AWS architectures that:
 
-- **Compute & Networking**: EC2, VPC, Load Balancers  
+- Scale efficiently with business growth  
+- Maintain high availability and reliability  
+- Minimize operational and infrastructure costs  
+- Automate deployment and management processes  
+
+---
+
+## 🎯 Core Specializations
+
+### 🏗️ Cloud Architecture
+Designing resilient and scalable AWS systems using:
+
+- **Compute & Networking**: EC2, VPC, Auto Scaling, Load Balancers  
 - **Storage & Databases**: S3, RDS, DynamoDB  
-- **Security & IAM**: Identity & Access Management, Policies, CloudWatch  
-- **Serverless & Automation**: Lambda, CloudFormation, CI/CD Pipelines  
-- **Monitoring & Optimization**: CloudWatch, Cost Optimization, Fault Tolerance  
+- **Serverless Architectures**: Lambda, Event-Driven Systems  
+- **Security & IAM**: Role-based access, least privilege design  
 
 ---
 
-## 🧠 What I Bring to the Table
+### 💰 Cloud Cost Optimization (FinOps Mindset)
 
-- **AWS Cloud Engineering**: Deploying resilient, secure, and cost-effective infrastructure  
-- **DevOps & Automation**: CI/CD pipelines, GitHub Actions, Docker, IaC with CloudFormation  
-- **Backend Systems**: Node.js, Express.js, Django, REST & GraphQL APIs  
-- **Databases**: MySQL, PostgreSQL, MongoDB  
-- **Frontend (supporting skills)**: React.js, Next.js, Tailwind CSS  
-- **Soft Skills**: Problem solving, cross-disciplinary teamwork, technical documentation  
+I specialize in designing architectures that reduce unnecessary cloud spend by applying:
+
+- Right-sizing infrastructure  
+- Auto-scaling strategies  
+- Cost-efficient storage tiering  
+- Reserved & Savings Plans strategies  
+- Monitoring usage patterns with CloudWatch  
 
 ---
 
-## 🛠️ Tools & Technologies
+### ⚙️ Automation & DevOps
 
-- **Cloud & DevOps**: AWS (EC2, S3, Lambda, RDS, IAM, DynamoDB, CloudFormation, CloudWatch), Docker, GitHub Actions  
-- **Languages**: Python, JavaScript, TypeScript, SQL  
-- **Backend**: Node.js, Express.js, Django, FastAPI  
-- **Databases**: MySQL, PostgreSQL, MongoDB, Firebase  
-- **Other**: Git, GitHub, Postman, Trello, Agile Collaboration  
+- Infrastructure as Code with CloudFormation  
+- CI/CD pipelines using GitHub Actions  
+- Docker containerization  
+- Monitoring and logging strategies  
+
+---
+
+## 🧠 Technical Skills
+
+### Cloud & DevOps
+AWS (EC2, S3, Lambda, RDS, DynamoDB, IAM, CloudFormation, CloudWatch), Docker, GitHub Actions
+
+### Backend Development
+Node.js, Express.js, Django, REST APIs, GraphQL
+
+### Databases
+MySQL, PostgreSQL, MongoDB
+
+### Languages
+Python, JavaScript, TypeScript, SQL
 
 ---
 
 ## 📈 Featured Projects
 
-### 🌟 Airbnb Clone (Backend Focus)  
-Backend-driven booking platform built with **Django + MySQL + GraphQL**, deployed on AWS.  
-- Designed a relational database schema with scalability in mind  
-- Implemented **authentication, booking, and property management APIs**  
-- Integrated **CI/CD pipelines** for automated deployment  
+### ☁️ Cost-Optimized AWS Web Architecture (In Progress)
+- Designed a scalable multi-tier architecture using EC2, ALB, and RDS  
+- Implemented auto-scaling and cost monitoring strategies  
+- Focused on reducing operational costs while maintaining high availability  
 
-### ☁️ AWS-Powered E-Commerce Platform (PrimeShopper Upgrade)  
-- Hosted e-commerce app on AWS with **EC2 + S3 + RDS**  
-- Implemented **AI-powered assistant** for product recommendations and voice-enabled search  
-- Secured payments with **Stripe integration and IAM-based access control**  
+---
+
+### 🌟 Airbnb Clone (Backend Focus)
+Backend-driven booking platform built with Django + MySQL + GraphQL.
+
+- Designed scalable relational database architecture  
+- Implemented booking and authentication APIs  
+- Integrated CI/CD deployment workflows  
+
+---
+
+### 🛒 AWS-Powered E-Commerce Platform
+- Deployed production-ready web application on AWS  
+- Implemented secure IAM access controls  
+- Integrated automated deployment pipelines  
+
+---
+
+## 🧭 Career Goals
+
+I am currently pursuing opportunities as a:
+
+**AWS Solutions Architect (Associate) / Cloud Architect**
+
+where I can design **scalable, reliable, and cost-efficient cloud systems**.
+
+I am also passionate about helping organizations **optimize cloud spending through better architectural decisions**.
 
 ---
 
 ## 📬 Let’s Connect
 
-I’m actively seeking opportunities as an **AWS Cloud Engineer** or **Cloud-Focused Backend Developer**, where I can build **scalable, secure, and innovative cloud-native systems**.  
-
-- 📱 WhatsApp (Preferred): **+233 (0) 540674594**  
-- 📧 Email: [billboah200@gmail.com](mailto:billboah200@gmail.com)  
-- 🌐 Portfolio: [billboah.vercel.app/](https://billboah.vercel.app/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/billboah/)  
-- 🐙 [GitHub](https://github.com/Billboah)  
+- 📱 WhatsApp: **+233 (0) 540674594**  
+- 📧 Email: billboah200@gmail.com  
+- 🌐 Portfolio: https://billboah.vercel.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/billboah/  
+- 🐙 GitHub: https://github.com/Billboah  
 
 ---
 
-*Let’s build the future of cloud computing—together.* ☁️💻  
+⭐ *“Good architecture is not just scalable — it is efficient, resilient, and cost-aware.”*
