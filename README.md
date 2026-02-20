@@ -2,68 +2,68 @@
 
 # 👋 Hi, I'm William Yeboah
 
-🚀 **AWS Solutions Architect (Associate) | Cloud Cost Optimization Enthusiast | Systems Thinker**
+🚀 **AWS Solutions Architect (Associate) | Cost-Efficient Cloud Architecture Specialist | Systems Thinker**
 
-I design and architect **secure, scalable, and cost-efficient cloud systems** on AWS. My focus is not just building infrastructure — but ensuring it is **optimized for performance, reliability, and long-term cost efficiency**.
+I design and architect **secure, scalable, and cost-efficient cloud systems** on AWS. My focus goes beyond infrastructure deployment — I specialize in creating architectures that are **strategically optimized for performance, reliability, and long-term cost efficiency**.
 
-With a strong foundation in backend engineering and a background in medical laboratory science, I bring **analytical precision, problem-solving, and systems thinking** into cloud architecture.
+With a strong foundation in backend engineering and a background in medical laboratory science, I bring **analytical precision, structured problem-solving, and systems thinking** into cloud architecture.
 
-Currently completing the **ALX AWS Cloud Computing (Cloud Architect Track)** and **Backend Web Professional Developer** programs.
+Currently completing the **ALX AWS Cloud Computing (Cloud Architect Track)** while actively seeking opportunities as an **AWS Solutions Architect (Associate)**.
 
 ---
 
-## ☁️ My Cloud Architecture Focus
+## ☁️ Cloud Architecture Focus
 
-My journey began in healthcare diagnostics, where I developed strong analytical and research skills. This foundation now shapes how I approach **cloud system design — with precision, optimization, and strategic thinking**.
+My professional journey began in healthcare diagnostics, where precision, research, and data-driven analysis were critical. These skills now shape how I approach cloud architecture — with emphasis on **efficiency, reliability, and strategic design**.
 
-Today, I focus on designing AWS architectures that:
+I focus on designing AWS architectures that:
 
 - Scale efficiently with business growth  
-- Maintain high availability and reliability  
-- Minimize operational and infrastructure costs  
-- Automate deployment and management processes  
+- Maintain high availability and fault tolerance  
+- Optimize infrastructure costs from the design stage  
+- Balance performance, reliability, and operational efficiency  
 
 ---
 
 ## 🎯 Core Specializations
 
-### 🏗️ Cloud Architecture
-Designing resilient and scalable AWS systems using:
+### 🏗️ AWS Solutions Architecture
+
+Designing resilient and scalable cloud systems using:
 
 - **Compute & Networking**: EC2, VPC, Auto Scaling, Load Balancers  
 - **Storage & Databases**: S3, RDS, DynamoDB  
-- **Serverless Architectures**: Lambda, Event-Driven Systems  
-- **Security & IAM**: Role-based access, least privilege design  
+- **Serverless Architectures**: Lambda and event-driven systems  
+- **Security & IAM**: Least-privilege access and secure architecture design  
 
 ---
 
-### 💰 Cloud Cost Optimization (FinOps Mindset)
+### 💰 Cost-Optimized Cloud Design (FinOps-Aligned Architecture)
 
-I specialize in designing architectures that reduce unnecessary cloud spend by applying:
+I specialize in designing architectures that reduce unnecessary cloud spend through:
 
-- Right-sizing infrastructure  
-- Auto-scaling strategies  
-- Cost-efficient storage tiering  
-- Reserved & Savings Plans strategies  
-- Monitoring usage patterns with CloudWatch  
+- Right-sizing infrastructure resources  
+- Auto-scaling strategies to match demand  
+- Cost-efficient storage lifecycle management  
+- Savings Plans and Reserved Instance strategies  
+- Continuous usage monitoring and optimization  
 
 ---
 
-### ⚙️ Automation & DevOps
+### ⚙️ Infrastructure Automation
 
-- Infrastructure as Code with CloudFormation  
-- CI/CD pipelines using GitHub Actions  
-- Docker containerization  
-- Monitoring and logging strategies  
+- Infrastructure as Code using CloudFormation  
+- Automated deployment workflows  
+- Monitoring and logging strategies for operational visibility  
 
 ---
 
 ## 🧠 Technical Skills
 
-### Cloud & DevOps
-AWS (EC2, S3, Lambda, RDS, DynamoDB, IAM, CloudFormation, CloudWatch), Docker, GitHub Actions
+### Cloud Architecture
+AWS (EC2, VPC, S3, RDS, DynamoDB, IAM, Lambda, CloudFormation, CloudWatch)
 
-### Backend Development
+### Backend Systems Knowledge
 Node.js, Express.js, Django, REST APIs, GraphQL
 
 ### Databases
@@ -77,9 +77,9 @@ Python, JavaScript, TypeScript, SQL
 ## 📈 Featured Projects
 
 ### ☁️ Cost-Optimized AWS Web Architecture (In Progress)
-- Designed a scalable multi-tier architecture using EC2, ALB, and RDS  
-- Implemented auto-scaling and cost monitoring strategies  
-- Focused on reducing operational costs while maintaining high availability  
+- Designed scalable multi-tier architecture using EC2, ALB, and RDS  
+- Implemented auto-scaling and monitoring strategies  
+- Focused on reducing infrastructure costs while maintaining high availability  
 
 ---
 
@@ -87,27 +87,25 @@ Python, JavaScript, TypeScript, SQL
 Backend-driven booking platform built with Django + MySQL + GraphQL.
 
 - Designed scalable relational database architecture  
-- Implemented booking and authentication APIs  
-- Integrated CI/CD deployment workflows  
+- Implemented authentication and booking APIs  
+- Integrated automated deployment workflows  
 
 ---
 
 ### 🛒 AWS-Powered E-Commerce Platform
-- Deployed production-ready web application on AWS  
-- Implemented secure IAM access controls  
-- Integrated automated deployment pipelines  
+- Deployed production-ready application on AWS infrastructure  
+- Implemented secure IAM-based access controls  
+- Automated deployment pipelines  
 
 ---
 
-## 🧭 Career Goals
+## 🧭 Professional Objective
 
-I am currently pursuing opportunities as a:
+I am actively seeking opportunities as an:
 
-**AWS Solutions Architect (Associate) / Cloud Architect**
+**AWS Solutions Architect (Associate)**
 
-where I can design **scalable, reliable, and cost-efficient cloud systems**.
-
-I am also passionate about helping organizations **optimize cloud spending through better architectural decisions**.
+where I can design **scalable, reliable, and cost-efficient cloud architectures** that deliver both technical excellence and business value.
 
 ---
 
@@ -121,4 +119,4 @@ I am also passionate about helping organizations **optimize cloud spending throu
 
 ---
 
-⭐ *“Good architecture is not just scalable — it is efficient, resilient, and cost-aware.”*
+⭐ *“Great cloud architecture is not just scalable — it is strategically efficient, resilient, and cost-optimized.”*
