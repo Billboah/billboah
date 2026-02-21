@@ -6,9 +6,9 @@
 
 I design and architect **secure, scalable, and cost-efficient cloud systems** on AWS. My focus goes beyond infrastructure deployment — I specialize in creating architectures that are **strategically optimized for performance, reliability, and long-term cost efficiency**.
 
-With a strong foundation in backend engineering and a background in medical laboratory science, I bring **analytical precision, structured problem-solving, and systems thinking** into cloud architecture.
+With a strong foundation in software engineering and a background in medical laboratory science, I bring **analytical precision, structured problem-solving, and systems thinking** into cloud architecture.
 
-Currently completing the **ALX AWS Cloud Computing (Cloud Architect Track)** while actively seeking opportunities as an **AWS Solutions Architect (Associate)**.
+After completing the **ALX AWS Cloud Computing (Cloud Architect Track),** I am now focused on applying my skills in real-world environments and actively seeking opportunities as an **AWS Solutions Architect (Associate)**.
 
 ---
 
@@ -63,14 +63,14 @@ I specialize in designing architectures that reduce unnecessary cloud spend thro
 ### Cloud Architecture
 AWS (EC2, VPC, S3, RDS, DynamoDB, IAM, Lambda, CloudFormation, CloudWatch)
 
-### Backend Systems Knowledge
-Node.js, Express.js, Django, REST APIs, GraphQL
+### Application Architecture Knowledge
+React.js, Next.js, Node.js, Django, REST API design, GraphQL
 
 ### Databases
 MySQL, PostgreSQL, MongoDB
 
 ### Languages
-Python, JavaScript, TypeScript, SQL
+Python, JavaScript, TypeScript, SQL, NoSQL
 
 ---
 
@@ -80,15 +80,6 @@ Python, JavaScript, TypeScript, SQL
 - Designed scalable multi-tier architecture using EC2, ALB, and RDS  
 - Implemented auto-scaling and monitoring strategies  
 - Focused on reducing infrastructure costs while maintaining high availability  
-
----
-
-### 🌟 Airbnb Clone (Backend Focus)
-Backend-driven booking platform built with Django + MySQL + GraphQL.
-
-- Designed scalable relational database architecture  
-- Implemented authentication and booking APIs  
-- Integrated automated deployment workflows  
 
 ---
 
